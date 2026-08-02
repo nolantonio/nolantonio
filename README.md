@@ -10,7 +10,7 @@ I am currently learning codebases by contributing to open source projects alongs
 
 ## Hobbies & Interests
 - I like building things like keyboards, PCs, & creative endeavours!
-- I'm a Filipino-American who doesn't understand Tagalog, but am currently taking Mandarin lessons
+- Music of all kinda, piano and rhythm game'osu!' (top 0.5%).
 - I run off sugar-free RedBull
 
 <!--
