@@ -10,7 +10,7 @@ I am currently learning codebases by contributing to open source projects alongs
 
 ## Hobbies & Interests
 - I like building things like keyboards, PCs, & creative endeavours!
-- Music of all kinda, piano and rhythm game'osu!' (top 0.5%).
+- I thoroughly enjoy music of all kinda, playing piano, and the rhythm game osu! (top 0.5%).
 - I run off sugar-free RedBull
 
 <!--
