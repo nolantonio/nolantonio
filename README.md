@@ -1,7 +1,7 @@
 ## Hello !! ヾ(•ω•`)o
 
 I'm Nolan, a software engineering student at San Jose State University.
-I am currently learning through contributing to open source projects with the help of [CTI](https://computingtalentinitiative.org/)!
+I am currently learning codebases by contributing to open source projects alongside the help of [CTI](https://computingtalentinitiative.org/)!
 
 ## Tools & Languages
 - React, Tailwind, Vite
