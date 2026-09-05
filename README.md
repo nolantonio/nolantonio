@@ -4,13 +4,13 @@ I'm Nolan, a software engineering student at San Jose State University.
 I am currently learning codebases by contributing to open source projects alongside the help of [CTI](https://computingtalentinitiative.org/)!
 
 ## Tools & Languages
-- React, Tailwind, Vite
+- React, Tailwind, Vite, Django, Dagster/Prefect 
 - C, Python, Java
 - ...aaaand learning Mandarin \^o^/
 
 ## Hobbies & Interests
 - I like building things like keyboards, PCs, & creative endeavours!
-- I thoroughly enjoy music of all kinds and playing piano
+- I thoroughly enjoy music of all kinds & playing piano
 - I run off sugar-free RedBull
 
 <!--
